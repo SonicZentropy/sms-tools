@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="MintVM" stopOnFirstError="true" uploadOnCheckin="280944c9-c86b-45f0-a810-3f91ba3ff364">
+    <serverData>
+      <paths name="MintVM">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/kc/workspace/sms-tools" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="MintVM" />
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

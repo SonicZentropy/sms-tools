@@ -29,7 +29,7 @@ To execute the models GUI you have to go to the directory <code>software/models_
 <code>$ python models_GUI.py </code>
 
 To execute the transformations GUI that calls various sound transformation functions
-go to the directory <code>software/transformations_interface</code> and type:
+go to the directory software/transformations_interface and type:
 
 <code>$ python transformations_GUI.py</code>
 
